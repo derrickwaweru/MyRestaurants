@@ -34,6 +34,7 @@
         android:layout_marginBottom="10dp"
         android:background="@color/colorTextIcons"
         android:padding="5dp"
+        android:text="Portland"
         android:hint="Enter Zip Code"
         android:layout_centerHorizontal="true" />
 
